@@ -31,7 +31,8 @@ This agent tends to rush to the other team's half, staying as Pac-Man most of th
 
 Build
 -----
-To watch the two agents in action, make sure you have Python 2.x and X11 installed (for graphics), and run
+To watch the two agents in action, make sure you're in the Files subdirectory, and have Python 2.x and X11 installed (for graphics).  
+Then run
 > python capture.py -r myTeam -b myTeam
 
 This runs a game between two teams, each consisting of a defensive reflex and offensive q-learning agent.
