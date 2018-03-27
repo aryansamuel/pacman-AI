@@ -1,5 +1,5 @@
 # myTeam.py
-# ---------
+# ----------
 
 from captureAgents import CaptureAgent
 import random, time, util
