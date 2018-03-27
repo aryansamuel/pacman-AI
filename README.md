@@ -24,7 +24,7 @@ Offensive Agent
 
 The offensive agent uses q-learing to learn an optimal offensive policy over hundreds of games/training sessions. 
 
-The policy changes this agent's focus to offensive features such as collecting pellets/capsules, avoiding ghosts, maximizing scores via eating pellets etc.
+The policy changes this agent's focus to offensive features such as collecting pellets/capsules, avoiding ghosts, maximizing scores via eating pellets etc. \n
 These features are not supplied with weights at first, but after iterating through many games, q-learning allows this agent to figure out optimal weights for each feature, leading the agent to learn an optimal policy to win the game.
 
 This agent tends to rush to the other team's half, staying as Pac-Man most of the time.
