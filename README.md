@@ -6,7 +6,7 @@ The Game
 --------
 
 The adversarial game is a competition between team Read and team Blue, where each team consists of two Pac-Men all with the ability to turn into ghosts and back.  
-The map is split in half where each half represents the home base of each team. While in their own half, an agent will be in the form of a ghost, and only when the agent crosses over to the opposing team's half do they turn into Pac-Man.
+The map is split in half where each half represents the home base of each team. While in their own half, an agent will be in the form of a ghost, and only when the agent crosses over to the opposing team's half do they turn into Pac-Man.  
 The goal of each team is to eat all the pellets of the opposing team's side, while protecting their own base and pellets.
 
 Our team consists of two agents; a defensive agent and an offensive agent.
